@@ -1,0 +1,3 @@
+<?php 
+Detta skulle kunna vara lite php-kod
+?>
